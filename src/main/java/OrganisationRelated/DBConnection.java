@@ -1,7 +1,8 @@
-package OrganisationRelated;
+package Organisation;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+
 
 public class DBConnection {
 	static DBConnection db;
